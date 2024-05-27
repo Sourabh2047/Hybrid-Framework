@@ -1,0 +1,27 @@
+{
+  "DOXZILLA_BaseUrl": {
+    "QA": "https://web-qa.doxzilla.enveu.com/en/",
+    "UAT": "https://enveu-saas:husai5We@web-uat.doxzilla.com/en/",
+    "PROD": "https://app.doxzilla.com/en/"
+  },
+  "Doxzilla_Search_Data": {
+    "Series": "Beautiful Planet",
+    "Movie": "Invasion of the Giant Pythons",
+    "Episode": "Alexanders Lost World - Mother of All Cities",
+    "Data": "&#&#&&#&&#"
+  },
+  "Valid_Login": {
+    "Email": "sourabh.kedar@enveu.com",
+    "Pass": "Test@123"
+  },
+  "ChangePass": {
+    "newPass": "Test@123",
+    "cnfPass": "Test@123"
+  },
+  "Valid_Signup": {
+    "Name": "Automation",
+    "Email": "Automation@yopmail.com",
+    "Pass": "Test@123",
+    "CnfPass": "Test@123"
+  }
+}
